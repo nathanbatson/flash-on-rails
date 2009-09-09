@@ -1,0 +1,17 @@
+<firm>
+  <id type="integer">1</id>
+  <rating type="integer">1</rating>
+  <name>37 signals</name>
+  <clients type="array">
+    <client>
+      <rating type="integer">1</rating>
+      <name>Summit</name>
+      <address>123 Testerson Lane</address>
+    </client>
+    <client>
+      <rating type="integer">1</rating>
+      <name>Microsoft</name>
+      <address>456 Testerson Lane</address>
+    </client>
+  </clients>
+</firm>
